@@ -2,12 +2,12 @@
 To merge a branch into the currently checked out branch, use:
 **git merge \<branchname\>**
 ## 1. Merge the spanish branch into the master branch
- - Examine the file hello.txt
+ - Examine the file hello.txt on master branch
 ```
 git checkout master
 git merge spanish
 ```
- - Examine the file hello.txt
+ - Examine the file hello.txt on master branch
 ## 2. Create a conflict
  - With the master branch checked out, modify the file hello.txt
  - Update the text on line 1: "Hello World, git is fun!"
