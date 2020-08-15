@@ -1,6 +1,7 @@
 # Git Tutorial
  - git must be installed on your computer in order to complete this tutorial: [install git]( https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
  - You will also need a github.com account: [create github account](https://github.com/join?ref_cta=Sign+up)
+ - For this tutorial, I used VS Code. Create a new folder ("GitDemo") and add a single file to that folder ("hello.txt")
 ### 1. [Basic git commands](docs/COMMANDS.md)
 ### 2. [Repository branches](docs/BRANCHES.md)
 ### 3. [Merging branches / Handling conflicts](docs/MERGE.md)
