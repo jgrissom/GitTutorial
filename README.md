@@ -1,6 +1,6 @@
 # Git Tutorial
  - Before you begin this tutorial [install git]( https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
- - You will also need to [create github aca count](https://github.com/join?ref_cta=Sign+up)
+ - You will also need to [create github account](https://github.com/join?ref_cta=Sign+up)
  - For this tutorial, I used VS Code:
    - Create a new folder ("GitDemo")
    - Add an empty file to that folder ("hello.txt")
