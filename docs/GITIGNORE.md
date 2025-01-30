@@ -19,7 +19,7 @@ git commit -m "create .gitignore"
 ```
 - Push changes to remote repo
 ```
-git push origin master
+git push origin main
 ```
 - Examine github.com (the file "hello.xxx" is ignored)
 ## 3. Add a new text file "goodbye.xxx"
@@ -41,7 +41,7 @@ git commit -m "update .gitignore"
 ```
 - Push changes to remote repo
 ```
-git push origin master
+git push origin main
 ```
 - Examine github.com (all files with ".xxx" extension are ignored)
 
