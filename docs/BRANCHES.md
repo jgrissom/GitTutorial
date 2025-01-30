@@ -21,9 +21,9 @@ git diff
 git add *
 git commit -m "add spanish greeting"
 ```
-## 5. Checkout the master branch
+## 5. Checkout the main branch
 ```
-git checkout master
+git checkout main
 ```
  - Examine the file hello.txt
 ## 6. Checkout the spanish branch
