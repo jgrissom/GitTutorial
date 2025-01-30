@@ -16,11 +16,11 @@ git branch
 ## 3. git checkout \<branchname\>
 Used to checkout a branch (to first create the branch, use -b flag)
 ```
-git checkout -b master
+git checkout -b main
 ```
 ## 4. git status
 Lists the changed files in the repository
- - Now that we have a local repository with a master branch, we can commit files to the currently checked out branch (in our case, the master branch is checked out)
+ - Now that we have a local repository with a main branch, we can commit files to the currently checked out branch (in our case, the main branch is checked out)
  - Before we do that, let’s look at the files that have changed
 ```
 git status
@@ -51,7 +51,7 @@ Preview uncommitted file changes
 ```
 git diff
 ```
- - Enter the git commands to stage and commit all changes to the master branch of the local repo
+ - Enter the git commands to stage and commit all changes to the main branch of the local repo
 ```
 git add *
 git commit -m "enter greeting"
