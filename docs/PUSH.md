@@ -11,9 +11,9 @@ git remote add origin https://github.com/<owner>/GitDemo.git
 ```
 git remote -v
 ```
-## 3. Push master branch to the remote repository
+## 3. Push main branch to the remote repository
 ```
-git push origin master
+git push origin main
 ```
 - View repository on github.com
 - Examine commits
